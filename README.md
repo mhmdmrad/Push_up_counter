@@ -1,3 +1,4 @@
+# DONE
 # **Push-Up Counter – Connection & Setup Guide**
 
 ## **Required Components**
